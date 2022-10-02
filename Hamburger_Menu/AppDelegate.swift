@@ -1,8 +1,8 @@
 //
 //  AppDelegate.swift
-//  HM15_HamburgerMenu
+//  Hamburger_Menu
 //
-//  Created by Aliaksandr Hunko on 26/07/2022.
+//  Created by Aliaksandr Hunko on 02/10/2022.
 //
 
 import UIKit

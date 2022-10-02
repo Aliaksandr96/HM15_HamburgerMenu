@@ -3,33 +3,31 @@
 	archiveVersion = 1;
 	classes = {
 	};
-	objectVersion = 55;
+	objectVersion = 56;
 	objects = {
 
 /* Begin PBXBuildFile section */
-		DA6F61C128906E4D00C9B929 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = DA6F61C028906E4D00C9B929 /* AppDelegate.swift */; };
-		DA6F61C328906E4D00C9B929 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = DA6F61C228906E4D00C9B929 /* SceneDelegate.swift */; };
-		DA6F61C528906E4D00C9B929 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = DA6F61C428906E4D00C9B929 /* ViewController.swift */; };
-		DA6F61C828906E4D00C9B929 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = DA6F61C628906E4D00C9B929 /* Main.storyboard */; };
-		DA6F61CA28906E4F00C9B929 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = DA6F61C928906E4F00C9B929 /* Assets.xcassets */; };
-		DA6F61CD28906E4F00C9B929 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = DA6F61CB28906E4F00C9B929 /* LaunchScreen.storyboard */; };
-		DAA3EB81289441160079F46F /* SettingViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = DAA3EB80289441160079F46F /* SettingViewController.swift */; };
+		DA75089628E99642003F5E90 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = DA75089528E99642003F5E90 /* AppDelegate.swift */; };
+		DA75089828E99642003F5E90 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = DA75089728E99642003F5E90 /* SceneDelegate.swift */; };
+		DA75089A28E99642003F5E90 /* MainViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = DA75089928E99642003F5E90 /* MainViewController.swift */; };
+		DA75089D28E99642003F5E90 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = DA75089B28E99642003F5E90 /* Main.storyboard */; };
+		DA75089F28E99643003F5E90 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = DA75089E28E99643003F5E90 /* Assets.xcassets */; };
+		DA7508A228E99643003F5E90 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = DA7508A028E99643003F5E90 /* LaunchScreen.storyboard */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		DA6F61BD28906E4D00C9B929 /* HM15_HamburgerMenu.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = HM15_HamburgerMenu.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		DA6F61C028906E4D00C9B929 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		DA6F61C228906E4D00C9B929 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
-		DA6F61C428906E4D00C9B929 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
-		DA6F61C728906E4D00C9B929 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		DA6F61C928906E4F00C9B929 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		DA6F61CC28906E4F00C9B929 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
-		DA6F61CE28906E4F00C9B929 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		DAA3EB80289441160079F46F /* SettingViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingViewController.swift; sourceTree = "<group>"; };
+		DA75089228E99642003F5E90 /* Hamburger_Menu.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Hamburger_Menu.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		DA75089528E99642003F5E90 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		DA75089728E99642003F5E90 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
+		DA75089928E99642003F5E90 /* MainViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainViewController.swift; sourceTree = "<group>"; };
+		DA75089C28E99642003F5E90 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		DA75089E28E99643003F5E90 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		DA7508A128E99643003F5E90 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		DA7508A328E99643003F5E90 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		DA6F61BA28906E4D00C9B929 /* Frameworks */ = {
+		DA75088F28E99642003F5E90 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -39,130 +37,128 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		DA6F61B428906E4D00C9B929 = {
+		DA75088928E99642003F5E90 = {
 			isa = PBXGroup;
 			children = (
-				DA6F61BF28906E4D00C9B929 /* HM15_HamburgerMenu */,
-				DA6F61BE28906E4D00C9B929 /* Products */,
+				DA75089428E99642003F5E90 /* Hamburger_Menu */,
+				DA75089328E99642003F5E90 /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		DA6F61BE28906E4D00C9B929 /* Products */ = {
+		DA75089328E99642003F5E90 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				DA6F61BD28906E4D00C9B929 /* HM15_HamburgerMenu.app */,
+				DA75089228E99642003F5E90 /* Hamburger_Menu.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		DA6F61BF28906E4D00C9B929 /* HM15_HamburgerMenu */ = {
+		DA75089428E99642003F5E90 /* Hamburger_Menu */ = {
 			isa = PBXGroup;
 			children = (
-				DA6F61C028906E4D00C9B929 /* AppDelegate.swift */,
-				DA6F61C228906E4D00C9B929 /* SceneDelegate.swift */,
-				DA6F61C428906E4D00C9B929 /* ViewController.swift */,
-				DAA3EB80289441160079F46F /* SettingViewController.swift */,
-				DA6F61C628906E4D00C9B929 /* Main.storyboard */,
-				DA6F61C928906E4F00C9B929 /* Assets.xcassets */,
-				DA6F61CB28906E4F00C9B929 /* LaunchScreen.storyboard */,
-				DA6F61CE28906E4F00C9B929 /* Info.plist */,
+				DA75089528E99642003F5E90 /* AppDelegate.swift */,
+				DA75089728E99642003F5E90 /* SceneDelegate.swift */,
+				DA75089928E99642003F5E90 /* MainViewController.swift */,
+				DA75089B28E99642003F5E90 /* Main.storyboard */,
+				DA75089E28E99643003F5E90 /* Assets.xcassets */,
+				DA7508A028E99643003F5E90 /* LaunchScreen.storyboard */,
+				DA7508A328E99643003F5E90 /* Info.plist */,
 			);
-			path = HM15_HamburgerMenu;
+			path = Hamburger_Menu;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		DA6F61BC28906E4D00C9B929 /* HM15_HamburgerMenu */ = {
+		DA75089128E99642003F5E90 /* Hamburger_Menu */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = DA6F61D128906E4F00C9B929 /* Build configuration list for PBXNativeTarget "HM15_HamburgerMenu" */;
+			buildConfigurationList = DA7508A628E99643003F5E90 /* Build configuration list for PBXNativeTarget "Hamburger_Menu" */;
 			buildPhases = (
-				DA6F61B928906E4D00C9B929 /* Sources */,
-				DA6F61BA28906E4D00C9B929 /* Frameworks */,
-				DA6F61BB28906E4D00C9B929 /* Resources */,
+				DA75088E28E99642003F5E90 /* Sources */,
+				DA75088F28E99642003F5E90 /* Frameworks */,
+				DA75089028E99642003F5E90 /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
 			);
-			name = HM15_HamburgerMenu;
-			productName = HM15_HamburgerMenu;
-			productReference = DA6F61BD28906E4D00C9B929 /* HM15_HamburgerMenu.app */;
+			name = Hamburger_Menu;
+			productName = Hamburger_Menu;
+			productReference = DA75089228E99642003F5E90 /* Hamburger_Menu.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		DA6F61B528906E4D00C9B929 /* Project object */ = {
+		DA75088A28E99642003F5E90 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				BuildIndependentTargetsInParallel = 1;
-				LastSwiftUpdateCheck = 1340;
-				LastUpgradeCheck = 1340;
+				LastSwiftUpdateCheck = 1400;
+				LastUpgradeCheck = 1400;
 				TargetAttributes = {
-					DA6F61BC28906E4D00C9B929 = {
-						CreatedOnToolsVersion = 13.4.1;
+					DA75089128E99642003F5E90 = {
+						CreatedOnToolsVersion = 14.0.1;
 					};
 				};
 			};
-			buildConfigurationList = DA6F61B828906E4D00C9B929 /* Build configuration list for PBXProject "HM15_HamburgerMenu" */;
-			compatibilityVersion = "Xcode 13.0";
+			buildConfigurationList = DA75088D28E99642003F5E90 /* Build configuration list for PBXProject "Hamburger_Menu" */;
+			compatibilityVersion = "Xcode 14.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
 				en,
 				Base,
 			);
-			mainGroup = DA6F61B428906E4D00C9B929;
-			productRefGroup = DA6F61BE28906E4D00C9B929 /* Products */;
+			mainGroup = DA75088928E99642003F5E90;
+			productRefGroup = DA75089328E99642003F5E90 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				DA6F61BC28906E4D00C9B929 /* HM15_HamburgerMenu */,
+				DA75089128E99642003F5E90 /* Hamburger_Menu */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		DA6F61BB28906E4D00C9B929 /* Resources */ = {
+		DA75089028E99642003F5E90 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				DA6F61CD28906E4F00C9B929 /* LaunchScreen.storyboard in Resources */,
-				DA6F61CA28906E4F00C9B929 /* Assets.xcassets in Resources */,
-				DA6F61C828906E4D00C9B929 /* Main.storyboard in Resources */,
+				DA7508A228E99643003F5E90 /* LaunchScreen.storyboard in Resources */,
+				DA75089F28E99643003F5E90 /* Assets.xcassets in Resources */,
+				DA75089D28E99642003F5E90 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		DA6F61B928906E4D00C9B929 /* Sources */ = {
+		DA75088E28E99642003F5E90 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				DA6F61C528906E4D00C9B929 /* ViewController.swift in Sources */,
-				DA6F61C128906E4D00C9B929 /* AppDelegate.swift in Sources */,
-				DA6F61C328906E4D00C9B929 /* SceneDelegate.swift in Sources */,
-				DAA3EB81289441160079F46F /* SettingViewController.swift in Sources */,
+				DA75089A28E99642003F5E90 /* MainViewController.swift in Sources */,
+				DA75089628E99642003F5E90 /* AppDelegate.swift in Sources */,
+				DA75089828E99642003F5E90 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXVariantGroup section */
-		DA6F61C628906E4D00C9B929 /* Main.storyboard */ = {
+		DA75089B28E99642003F5E90 /* Main.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				DA6F61C728906E4D00C9B929 /* Base */,
+				DA75089C28E99642003F5E90 /* Base */,
 			);
 			name = Main.storyboard;
 			sourceTree = "<group>";
 		};
-		DA6F61CB28906E4F00C9B929 /* LaunchScreen.storyboard */ = {
+		DA7508A028E99643003F5E90 /* LaunchScreen.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				DA6F61CC28906E4F00C9B929 /* Base */,
+				DA7508A128E99643003F5E90 /* Base */,
 			);
 			name = LaunchScreen.storyboard;
 			sourceTree = "<group>";
@@ -170,13 +166,13 @@
 /* End PBXVariantGroup section */
 
 /* Begin XCBuildConfiguration section */
-		DA6F61CF28906E4F00C9B929 /* Debug */ = {
+		DA7508A428E99643003F5E90 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
 				CLANG_ANALYZER_NONNULL = YES;
 				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
-				CLANG_CXX_LANGUAGE_STANDARD = "gnu++17";
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
 				CLANG_ENABLE_MODULES = YES;
 				CLANG_ENABLE_OBJC_ARC = YES;
 				CLANG_ENABLE_OBJC_WEAK = YES;
@@ -220,7 +216,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 15.5;
+				IPHONEOS_DEPLOYMENT_TARGET = 16.0;
 				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
 				MTL_FAST_MATH = YES;
 				ONLY_ACTIVE_ARCH = YES;
@@ -230,13 +226,13 @@
 			};
 			name = Debug;
 		};
-		DA6F61D028906E4F00C9B929 /* Release */ = {
+		DA7508A528E99643003F5E90 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
 				CLANG_ANALYZER_NONNULL = YES;
 				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
-				CLANG_CXX_LANGUAGE_STANDARD = "gnu++17";
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
 				CLANG_ENABLE_MODULES = YES;
 				CLANG_ENABLE_OBJC_ARC = YES;
 				CLANG_ENABLE_OBJC_WEAK = YES;
@@ -274,7 +270,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 15.5;
+				IPHONEOS_DEPLOYMENT_TARGET = 16.0;
 				MTL_ENABLE_DEBUG_INFO = NO;
 				MTL_FAST_MATH = YES;
 				SDKROOT = iphoneos;
@@ -284,7 +280,7 @@
 			};
 			name = Release;
 		};
-		DA6F61D228906E4F00C9B929 /* Debug */ = {
+		DA7508A728E99643003F5E90 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
@@ -293,7 +289,7 @@
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_TEAM = 4XKQ66453D;
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_FILE = HM15_HamburgerMenu/Info.plist;
+				INFOPLIST_FILE = Hamburger_Menu/Info.plist;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
@@ -304,7 +300,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = "com.aliaksandr.hunko.HM15-HamburgerMenu";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.aliaksandr.hunko.Hamburger-Menu";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
@@ -312,7 +308,7 @@
 			};
 			name = Debug;
 		};
-		DA6F61D328906E4F00C9B929 /* Release */ = {
+		DA7508A828E99643003F5E90 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
@@ -321,7 +317,7 @@
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_TEAM = 4XKQ66453D;
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_FILE = HM15_HamburgerMenu/Info.plist;
+				INFOPLIST_FILE = Hamburger_Menu/Info.plist;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
@@ -332,7 +328,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = "com.aliaksandr.hunko.HM15-HamburgerMenu";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.aliaksandr.hunko.Hamburger-Menu";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
@@ -343,25 +339,25 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		DA6F61B828906E4D00C9B929 /* Build configuration list for PBXProject "HM15_HamburgerMenu" */ = {
+		DA75088D28E99642003F5E90 /* Build configuration list for PBXProject "Hamburger_Menu" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				DA6F61CF28906E4F00C9B929 /* Debug */,
-				DA6F61D028906E4F00C9B929 /* Release */,
+				DA7508A428E99643003F5E90 /* Debug */,
+				DA7508A528E99643003F5E90 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		DA6F61D128906E4F00C9B929 /* Build configuration list for PBXNativeTarget "HM15_HamburgerMenu" */ = {
+		DA7508A628E99643003F5E90 /* Build configuration list for PBXNativeTarget "Hamburger_Menu" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				DA6F61D228906E4F00C9B929 /* Debug */,
-				DA6F61D328906E4F00C9B929 /* Release */,
+				DA7508A728E99643003F5E90 /* Debug */,
+				DA7508A828E99643003F5E90 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = DA6F61B528906E4D00C9B929 /* Project object */;
+	rootObject = DA75088A28E99642003F5E90 /* Project object */;
 }
